@@ -18,7 +18,7 @@ y_cordinate = int((screen_height/2) - (window_height/2))
 root.geometry("{}x{}+{}+{}".format(window_width, window_height, x_cordinate, y_cordinate))
 root.configure(bg='pink')
 label_font = font.Font(size=20)
-msggg = Message( root, text = "Irmak'tan Tatlı Kızın Olma Olasılığını hesapla:",bg='pink',font=label_font,anchor=CENTER,width=5000)  
+msggg = Message( root, text = "(yazacağınız isim)'den Tatlı Kızın Olma Olasılığını hesapla:",bg='pink',font=label_font,anchor=CENTER,width=5000)  
 msggg.pack()
 
 
