@@ -8,7 +8,7 @@ root = Tk()
 window_height = 500
 window_width = 700
 root.resizable(False, False)
-root.title("namnamnam")
+root.title("<3")
 screen_width = root.winfo_screenwidth()
 screen_height = root.winfo_screenheight()
 
@@ -46,7 +46,7 @@ def startPb():
     msg.showerror(":)","Hesaplanamadı!!! ")
     msg.askquestion(":)","Gerçekten senden tatlı birinin bulunabileceğini mi düşündün?")
     msg.showinfo(":)","Seni ÇOOOOKK seviyorummm.")
-    msg.showinfo(":)"," İyi ki varsın, iyi ki benimsin ağzını yüzünü yediğim her zaman mutlu ol canımın içi <3")
+    msg.showinfo(":)"," İyi ki varsın, iyi ki benimsin her zaman mutlu ol canımın içi <3")
     msg.showinfo(":)","\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f")
 
 
